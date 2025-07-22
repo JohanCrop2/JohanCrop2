@@ -45,7 +45,7 @@ src="https://img.shields.io/twitch/status/wmitty1?logo=twitchsx&style=for-the-ba
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
     </picture>
   </a>
-  <a href="https://www.github.com/JohanCrop" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/JohanCrop2" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
