@@ -17,7 +17,7 @@ I’m constantly expanding my skills by diving into new programming languages, p
 
 Let's connect, collaborate, and make something amazing.
 
-* 🌍  I'm based in ChiangMai RMUTL
+* 🌍  I'm based in Phayao,ChiangRai,ChiangMai, UP Phayao University
 * ✉️  You can contact me at [ceroxanastasia@gmail.com](mailto:ceroxanastasia@gmail.com)
 * 🧠  I'm learning C, C++, JavaScript, C#, Python
 
