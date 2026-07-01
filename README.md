@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Wanchanachai Khaentha
 =============================================================================================================================================
 
-Student, Engineering, CPE, Instructor , Dev
+Student, Engineering, Comsci, Instructor , Dev
 -------------------------------------------
 
 Hi there! 👋 I'm a passionate Computer Engineering student with a strong commitment to continuous self-improvement and lifelong learning. I believe technology is not only a tool but a gateway to solving real-world problems — and I'm here to build, learn, and grow every day.
