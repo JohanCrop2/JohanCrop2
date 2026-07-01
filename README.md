@@ -5,7 +5,7 @@ My name is Wanchanachai Khaentha
 Student, Engineering, Comsci, Instructor , Dev
 -------------------------------------------
 
-Hi there! 👋 I'm a passionate Computer Engineering student with a strong commitment to continuous self-improvement and lifelong learning. I believe technology is not only a tool but a gateway to solving real-world problems — and I'm here to build, learn, and grow every day.
+Hi there! 👋 I'm a passionate Computer Science student with a strong commitment to continuous self-improvement and lifelong learning. I believe technology is not only a tool but a gateway to solving real-world problems — and I'm here to build, learn, and grow every day.
 
 My interests span across software development, embedded systems, networking, and artificial intelligence. I enjoy exploring new technologies, contributing to open-source projects, and challenging myself with hands-on experiences beyond the classroom.
 
