@@ -88,10 +88,15 @@ Let's connect, collaborate, and make something amazing.
 <b>My GitHub Stats</b>
 
 <p align="left">
-  <a href="https://github.com/JohanCrop2"><img src="https://github-readme-stats.vercel.app/api?username=JohanCrop2&show_icons=true&theme=radical" alt="JohanCrop's GitHub stats" /></a>
+  <a href="https://github.com/JohanCrop2">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohanCrop2&show_icons=true&theme=radical" alt="JohanCrop's GitHub stats" />
+  </a>
 </p>
+
 <p align="left">
-  <a href="https://github.com/JohanCrop2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCrop2&layout=compact&theme=radical" alt="Top Languages" /></a>
+  <a href="https://github.com/JohanCrop2">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohanCrop2&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </p>
 
 ### Support Me
